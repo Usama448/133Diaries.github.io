@@ -128,7 +128,11 @@ display: none;
         margin-top: 7px;
         margin-bottom: 7px;
     }
- 
+  .heading span {
+       
+        font-size: 12px;
+    }
+
     .footer{
         background-color:var(--main-bg-color);
         height: 28px;
